@@ -20,7 +20,14 @@ This tool tracks your 20 slots — and makes you justify every one.
 
 **Tim** — [ordinarymantrying.com](https://ordinarymantrying.com)
 
-An ordinary Chinese guy learning value investing with AI.
+An ordinary Chinese guy learning value investing with AI, writing about it in English.
+
+## More Free Tools
+
+- [2026 Gaokao English Exam](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) — Real Chinese college entrance exam
+- [China Civil Service Challenge](https://ordinarymantrying.com/tools/civil-service-challenge.html) — 行测 aptitude test
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 with spaced repetition
+- [All free tools →](https://ordinarymantrying.com/tools/)
 
 ## License
 
