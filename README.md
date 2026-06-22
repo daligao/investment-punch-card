@@ -1,6 +1,6 @@
 Warren Buffett said: imagine you only get 20 investments in your entire lifetime. Would you still buy this one?
 
-**[🔗 Use it free →](https://ordinarymantrying.com/tools/investment-punch-card.html)**
+**[🔗 Use it free →](https://daligao.github.io/investment-punch-card/investment-punch-card.html))**
 
 ## The idea
 
